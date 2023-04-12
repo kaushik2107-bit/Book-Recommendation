@@ -1,0 +1,38 @@
+book_id,title,genres,liked
+1,The Girl with the Dragon Tattoo,"crime fiction, mystery, thriller",1
+2,The Hobbit,"fantasy, adventure",1
+3,Pride and Prejudice,"romance, classic literature",0
+4,The Brief Wondrous Life of Oscar Wao,"fiction, historical fiction",0
+5,To Kill a Mockingbird,"classic literature, coming-of-age",1
+6,The Hunger Games,"science fiction, dystopian",1
+7,The Da Vinci Code,"mystery, thriller",1
+8,The Catcher in the Rye,"classic literature, coming-of-age",1
+9,The Great Gatsby,"classic literature, drama",1
+10,The Road,"post-apocalyptic, science fiction",0
+11,The Adventures of Huckleberry Finn,"classic literature, adventure",1
+12,Fifty Shades of Grey,"romance, erotica",0
+13,1984,"science fiction, dystopian",1
+14,The Lord of the Rings,"fantasy, adventure",1
+15,The Fault in Our Stars,"young adult, romance",1
+16,The Picture of Dorian Gray,"classic literature, gothic fiction",1
+17,The Time Traveler's Wife,"science fiction, romance",1
+18,The Shining,"horror, supernatural",1
+19,The Martian,"science fiction, adventure",1
+20,The Silence of the Lambs,"crime fiction, horror",1
+21,The Handmaid's Tale,"science fiction, dystopian",1
+22,The Name of the Rose,"historical fiction, mystery",1
+23,The Sun Also Rises,"classic literature, drama",1
+24,The Brothers Karamazov,"classic literature, drama",1
+25,The Hitchhiker's Guide to the Galaxy,"science fiction, humor",1
+26,The Wind-Up Bird Chronicle,"magical realism, surrealism",0
+27,The Picture of Dorian Gray,"classic literature, gothic fiction",1
+28,The Hunger Games,"science fiction, dystopian",1
+29,The Catcher in the Rye,"classic literature, coming-of-age",1
+30,The Girl on the Train,"mystery, thriller",1
+31,The Giver,"science fiction, young adult",1
+32,The Book Thief,"historical fiction, drama",1
+33,The Lovely Bones,"drama, mystery",0
+34,The Help,"historical fiction, drama",1
+35,The Time Machine,"science fiction, time travel",1
+36,The War of the Worlds,"science fiction, alien invasion",1
+37,The Old Man and the Sea,"classic literature, adventure",1
