@@ -6,7 +6,10 @@ import matplotlib.pyplot as plt
 
 from flask import jsonify
 from flask import Flask, request
+from flask_cors import CORS, cross_origin
+
 app = Flask(__name__)
+CORS(app)
 
 def recommend_books(user_genres, n_recommendations=5):
     dataset = pd.read_csv("demo.csv")
