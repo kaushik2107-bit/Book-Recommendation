@@ -1,5 +1,13 @@
 book_id,title,genres,likes
-BOOK0001,Harry Potter and the Philosopher's Stone,"Novel,Children's literature,Fantasy fiction",4.2
+BOOK0001,Harry Potter and the Philosopher's Stone,"Children's literature,Fantasy fiction,Novel",4.2
 BOOK0002,Harry Potter and the Chamber of Secrets,"Novel,Children's literature,Fantasy fiction",4.2
 BOOK0003,Pride and Prejudice,"Fiction,Romance Novel",4.2
 BOOK0004,Green Hills of Africa,"Biography,Travel Literature,Non fiction",4.2
+BOOK0005,The Girl with the Dragon Tattoo,"Crime Fiction,Mystery,Thriller",4.2
+BOOK0006,The Hobbit,"Adventure,Fantasy",4.2
+BOOK0007,To Kill a Mockingbird,"Classic Literature,coming of age",4.2
+BOOK0008,The Hunger Games,"Science Fiction,Dystopian",4.2
+BOOK0009,The Da Vinci Code,"Mystery,Thriller",4.2
+BOOK0010,Fifty Shades of Grey,"Romance Novel,Romance,Erotica",4.2
+BOOK0011,The Lord of the Rings,"Fantasy,Adventure",4.2
+BOOK0012,The Fault in Our Stars,"Romance Novel,Romance,young adult",4.2

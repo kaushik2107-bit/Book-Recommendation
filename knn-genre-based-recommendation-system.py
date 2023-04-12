@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 def recommend_books(user_genres, n_recommendations=5):
-    dataset = pd.read_csv("demo.csv")
+    dataset = pd.read_csv("demo_1.csv")
 
     genres = dataset["genres"]
     genre_lists = [genre.split(",") for genre in genres]
