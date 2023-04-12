@@ -9,7 +9,7 @@ from flask import Flask, request
 from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 def recommend_books(user_genres, n_recommendations=5):
     dataset = pd.read_csv("demo.csv")
